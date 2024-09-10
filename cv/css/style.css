@@ -22,6 +22,7 @@ nav {
     text-align: center;
     
     
+    
 }
 nav.name{
 margin-left: 20px;
@@ -110,7 +111,7 @@ footer{
         text-align: center;
         font-size: 2em;
         word-spacing: 5px;
-        color:#4A5759;
+        color:#EDAFB8;
 }
 .awards{
     font-family: Cinzel, serif;
@@ -118,7 +119,7 @@ footer{
         text-align: center;
         font-size: 2em;
         word-spacing: 5px;
-        color:#4A5759;
+        color:#EDAFB8;
 }
 .skills{
     font-family: Cinzel, serif;
@@ -126,14 +127,14 @@ footer{
         text-align: center;
         font-size: 2em;
         word-spacing: 5px;
-        color:#4A5759;
+        color:#EDAFB8;
 }
 .experience{
     font-family: Cinzel, serif;
         text-align: center;
         font-size: 2em;
         word-spacing: 5px;
-        color:#4A5759;
+        color:#EDAFB8;
 }
 .projects{
     font-family: Cinzel, serif;
@@ -141,7 +142,7 @@ footer{
         text-align: center;
         font-size: 2em;
         word-spacing: 5px;
-        color:#4A5759;
+        color:#EDAFB8;
 }
 
 .eduParagraph{
